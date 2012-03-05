@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Open in Total Commander Update Site
+   </description>
+   <feature url="features/Open_In_Totalcmd_1.0.1.jar" id="Open_In_Totalcmd" version="1.0.1">
+      <category name="Utilities"/>
+   </feature>
+   <category-def name="Utilities" label="Utilities">
+      <description>
+         Makes life a bit easier
+      </description>
+   </category-def>
+</site>
